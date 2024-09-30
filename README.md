@@ -1,7 +1,7 @@
 # Weclome to the [MLGEO2024_vgarcia1 repository](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1.git)!
 
 ## Author: Valeria Garcia
-### **To install this repository to your local machine, first navigate to the desried directory. Then clone the repository by running the following in the command line**
+### **To install this repository to your local machine, first navigate to the desried directory, then clone the repository by running the following in the command line**
 
 ```bash 
 git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
@@ -13,7 +13,14 @@ git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
 
 
 ### **How to run notebooks from this repository**
-Download the desired notebook/script to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode). New files can be attended and pushed to the respository by running the following in the command line
+Download the desired notebook/script to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode). New files can be added and pushed to the respository by running the following in the command line
+
+```bash 
+git add <file_name>
+git commit -m "description of update"
+git push
+```
+#### Example:
 ![git add,commit,push](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/git_add_commit_push_example.png?raw=true)
 
 
