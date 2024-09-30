@@ -1,7 +1,7 @@
 # Weclome to the [MLGEO2024_vgarcia1](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1.git) repository!
 
 ## Author: Valeria Garcia
-### **To install this repository to your local machine, first navigate to the desried directory, then clone the repository by running the following in the command line**
+### **To install this repository to your local machine, first navigate to the desired directory, then clone the repository by running the following in the command line**
 
 ```bash 
 git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
