@@ -33,4 +33,7 @@ git push
   * Mixed-phase precipitation
   * Winter precipitation <br><br>
 
+## Real picture of a dendritic snowflake imaged inside a snowstorm!
+![dendritic particle](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/aircraft.NASA_P3.20230123143012.PHIPS_camera_C1.png?raw=true)
+
 This repository uses an MIT license, an open-source license on Github that allows users to freely use, copy, modify, merge, publish, distribute, and sublicense software in this repository.
