@@ -14,7 +14,7 @@ git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
 
 ### **How to run notebooks from this repository**
 Download the desired notebook/script to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode). New files can be attended and pushed to the respository by running the following in the command line
-![git add,commit,push](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/git_clone_example.png?raw=true)
+![git add,commit,push](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/git_add_commit_push_example.png?raw=true)
 
 
 ### **Valeria's favorite Earth Science topics:**
