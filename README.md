@@ -1,4 +1,4 @@
-# Weclome to the UW-MLGEO2024_valgarcia repository!
+# Weclome to the UWMLGEO2024_vgarcia1 repository!
 
 ### Author: Valeria Garcia
 ### To install this repository to your local machine, clone it by running the following in the command line:
