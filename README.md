@@ -4,8 +4,9 @@
 ### To install this repository to your local machine, clone it by running the following in the command line:
 
 ```git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git```
-
-### How to run notebook:
+<br>
+### How to run notebooks in this repository:
+Download notebooks/scripts to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode).
 
 <br>
 
@@ -16,6 +17,8 @@
   * Radar meteorology
     
 * Cloud Physics
+  * Mixed-phase precipitation
+  * Winter precipitation
 
 
 <br>
