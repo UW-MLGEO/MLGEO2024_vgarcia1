@@ -7,6 +7,11 @@
 git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
 ```
 
+![Example:](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/git_clone_example.png?raw=true)
+
+
+
+
 ### **How to run notebooks from this repository:**
 Download the desired notebook/script to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode). <br><br>
 
