@@ -3,7 +3,9 @@
 ## Author: Valeria Garcia
 ### **To install this repository to your local machine, first navigate to the desried directory. Then clone the repository by running the following in the command line:**
 
-```git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git```<br><br>
+```bash 
+git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
+```
 
 ### **How to run notebooks from this repository:**
 Download the desired notebook/script to your local machine and run using Python-supported software (e.g. JupyterLab, VSCode). <br><br>
