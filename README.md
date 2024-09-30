@@ -1,8 +1,7 @@
 # UW-MLGEO2024_valgarcia
 
 
-To install this repository, run the command: git clone <repository-url>
-# 
+To install this repository to your local machine, run the command: git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
 
 
 
