@@ -11,7 +11,7 @@ git clone https://github.com/UW-MLGEO/UW-MLGEO2024_valgarcia.git
 
 ### **How to run notebooks from this repository**
 Download the desired notebook to your local machine, making sure it has installed software that runs Python-coded notebooks (e.g. JupyterLab, VSCode).
-To ensure the necessary libraries/modules are installed to run the notebooks in this repository, create a new conda environment named "mlgeo" using this [environmnet.yml file](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/environment.yml) (see command below for reference). Make sure the environmnet.yml is downloaded to the same directory where you are creating your conda environment. This step only needs to be done once.
+To ensure the necessary libraries/modules are installed to run the notebooks in this repository, create a new conda environment named "mlgeo" using this [environmnet.yml](https://github.com/UW-MLGEO/MLGEO2024_vgarcia1/blob/main/environment.yml) file (see command below for reference). Make sure the environmnet.yml is downloaded to the same directory where you are creating your conda environment. This step only needs to be done once.
 
 ```bash 
 conda env create -f environment.yml
